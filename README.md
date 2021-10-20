@@ -6,7 +6,8 @@
 ###
 
 - 🐸 pronomes: a - d/ela.
-- ✨ atualmente estudando tecnologias p/ front-end.
+- 📚 atualmente estudando tecnologias p/ front-end.
+- ✨ interesse em front e design de interfaces e experiência do usuário.
 - 💖 cursando Design Digital na UFC Campus Quixadá.
 
 ##
