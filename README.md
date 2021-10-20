@@ -38,7 +38,7 @@
     <a href="https://www.behance.net/bomdya">
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/behance-3.svg" style="width=30px; height:30px;"/>
     </a>
-    <a href="https://mail.google.com/mail/u/2/#inbox">
+    <a href="mailto:dyalvesnt@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width=30px; height:30px;"/>
     </a>
  
