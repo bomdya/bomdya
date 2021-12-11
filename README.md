@@ -5,7 +5,7 @@
  
 ###
 
-- 🐸 pronomes: a - d/ela.
+- 🐸 pronomes: d/ela - she/her
 - 📚 atualmente estudando tecnologias p/ front-end.
 - ✨ interesse em front e design de interfaces e experiência do usuário.
 - 💖 cursando Design Digital na UFC Campus Quixadá.
