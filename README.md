@@ -6,9 +6,9 @@
 ###
 
 - 🐸 pronomes: d/ela - she/her
-- 📚 atualmente estudando tecnologias p/ front-end mobile.
-- ✨ interesse em front e design de interfaces e experiência do usuário.
-- 💖 cursando Design Digital na UFC Campus Quixadá.
+- ✨ interesse em design de interfaces, experiência do usuário e desenvolvimento front-end.
+- 📚 tecnologias front-end mobile e web.
+- 💖 graduanda em Design Digital na UFC Campus Quixadá.
 
 ##
 
