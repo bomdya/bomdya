@@ -1,6 +1,6 @@
 ### Olar 👋
 
-  ![Dya's GitHub stats]<!--(https://github-readme-stats.vercel.app/api?username=bomdya&count_private=true&show_icons=true&&theme=dracula&hide=prs,issues)-->
+  <!-- ![Dya's GitHub stats] (https://github-readme-stats.vercel.app/api?username=bomdya&count_private=true&show_icons=true&&theme=dracula&hide=prs,issues)-->
   <img src="https://media.giphy.com/media/mIWNrDMubLj6jt28ao/giphy.gif" width=150px height=150px  />
  
 ###
