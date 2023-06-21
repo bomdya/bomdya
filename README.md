@@ -1,7 +1,7 @@
 ### Olar 👋
 
   <!-- ![Dya's GitHub stats] (https://github-readme-stats.vercel.app/api?username=bomdya&count_private=true&show_icons=true&&theme=dracula&hide=prs,issues)-->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomdya&hide=html&layout=compact&theme=buefy" /> 
+  <img height=150px align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomdya&hide=html&layout=compact&theme=buefy" /> 
   <img src="https://media.giphy.com/media/mIWNrDMubLj6jt28ao/giphy.gif" width=150px height=150px  />
  
 ###
