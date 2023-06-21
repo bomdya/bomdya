@@ -7,7 +7,7 @@
 ###
 
 - 🐸 pronomes: d/ela - she/her
-- ✨ interesse em design de interfaces, experiência do usuário e desenvolvimento front-end.
+- ✨ experiência em design de interfaces, design centrado no usuário e desenvolvimento front-end.
 - 📚 tecnologias front-end mobile e web.
 - 💖 graduanda em Design Digital na UFC Campus Quixadá.
 
